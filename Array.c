@@ -1,4 +1,4 @@
-/*//1.)1. WAP in C to print array using int pointer.
+//1.)1. WAP in C to print array using int pointer.
 //            i/p: int a[5]={11,22,33,44,55}, *p=a;
 //            o/p: 11 22 33 44 55
 #include<stdio.h>
@@ -473,8 +473,7 @@ for(i=0;i<n;i++)
 printf("%d ",a[i]);
 printf("\n");
 }
-*/
-/*//16.)WAP in C to swap(using bitwise) 0th ele with last ele in array using 2 pointer without any loop.
+//16.)WAP in C to swap(using bitwise) 0th ele with last ele in array using 2 pointer without any loop.
 //            i/p: int a[6]={111,222,333,444,555,666}, *p,*q;
 //            o/p: 666 222 333 444 555 111
 #include<stdio.h>
@@ -498,8 +497,7 @@ for(i=0;i<n;i++)
 printf("%d ",*(q+i));
 printf("\n");
 }
-*/
-/*//17.)WAP in C to sort 1st 3 element of array .
+//17.)WAP in C to sort 1st 3 element of array .
 //        i/p: int a[7]={11,33,22,2,9,1,6};
 //        o/p: 11 22 33 2 9 1 6
 #include<stdio.h>
@@ -625,8 +623,7 @@ printf("After number\n");
 for(i=0;i<n;i++)
 printf("%d ",a[i]);
 printf("\n");
-}*/
-/*//21.)WAP to C to insert 99 on 0th , 88 on 1st index in same array
+}//21.)WAP to C to insert 99 on 0th , 88 on 1st index in same array
 //       i/p: int a[9]={30,11,45,34,14,8 ,50 },num=99 ;
 //       o/p: int a[9]={99,88, 30,11,45,34,14,8, 50}
 #include<stdio.h>
@@ -664,8 +661,7 @@ for(i=0;i<n;i++)
 printf("%d ",a[i]);
 printf("\n");
 }
-*/
-/*//22.)WAP in C to merge 2 array into 3rd array .
+//22.)WAP in C to merge 2 array into 3rd array .
 //         i/p: int a[3]={1,5,7}; b[3]={11,22,33};
 //         o/p: int c[6]={1,11,5,22,7,33};
 #include<stdio.h>
@@ -1437,6 +1433,5 @@ ele--;
 for(i=0;i<ele;i++)
 printf("%d ",a[i]);
 }
-*/
 
 
